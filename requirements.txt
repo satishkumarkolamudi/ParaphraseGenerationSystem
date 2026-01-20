@@ -1,0 +1,10 @@
+pydantic
+nltk
+spacy
+sentence-transformers
+scikit-learn
+textstat
+transformers
+torch
+fastapi
+uvicorn[standard]
