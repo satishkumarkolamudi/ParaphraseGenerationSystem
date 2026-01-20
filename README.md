@@ -181,8 +181,3 @@ Development tips
 - Pin exact package versions in `requirements.txt` for reproducible environments.
 - Add request size and timeouts in production (e.g., via ASGI middleware or a reverse proxy).
 - Consider adding a background initialization step that preloads the LLM and embedding model on startup to avoid cold-start latency.
-
-License & attribution
----------------------
-
-This project pulls models and data from open-source projects (Hugging Face Transformers, Sentence Transformers, NLTK, spaCy). Respect their licenses and model-card usage restrictions.
